@@ -9,7 +9,7 @@
 
 > ✍ I'm a student of: [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/) (UIT).
 
-> ✍ I'm currently learning **Full Stack**
+> 🌱 I'm currently learning **Full Stack**
 
 <br />
 
